@@ -26,8 +26,12 @@ button {
     background-color: #5f9341;
     margin-top: 5px;
     padding: 10px 20px;
-    border:none;
+    border:1px solid #5f9341;
     font-weight: bold;
+}
+#delete-btn{
+    color:#5f9341;
+    background-color: #fff;
 }
 /* input:hover{
     background-color: gray;
